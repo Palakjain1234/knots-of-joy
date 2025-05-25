@@ -1,5 +1,4 @@
 import connectDB from "./database/index.js";
-import connection from "./database/index.js";
 import dotenv from "dotenv";
 
 //.config() method loads the variables from your .env file and adds them to process.env
